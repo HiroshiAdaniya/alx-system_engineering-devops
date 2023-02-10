@@ -6,3 +6,5 @@
 #Changes working directory to user's home directoy
 3-listfiles
 #Displays current directory in a long format
+4-listmorefiles
+#Displays current directory, including hidden files, in long format
