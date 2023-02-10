@@ -8,3 +8,5 @@
 #Displays current directory in a long format
 4-listmorefiles
 #Displays current directory, including hidden files, in long format
+5-listfilesdigitonly
+#Displays current directory, including hidden files, numerical long format
