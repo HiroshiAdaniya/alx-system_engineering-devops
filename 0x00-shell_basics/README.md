@@ -1,2 +1,4 @@
 0-current_working_directory
-#printing an absolute path
+#Printing an absolute path
+1-listit
+#Displaying list of current directory 
