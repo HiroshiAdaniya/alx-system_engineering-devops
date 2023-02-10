@@ -3,4 +3,6 @@
 1-listit
 #Displaying list of current directory
 2-bring_me_home
-#Changes working directory to user's home directoy 
+#Changes working directory to user's home directoy
+3-listfiles
+#Displays current directory in a long format
