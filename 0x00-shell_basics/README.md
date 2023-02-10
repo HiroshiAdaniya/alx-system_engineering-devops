@@ -1,4 +1,6 @@
 0-current_working_directory
 #Printing an absolute path
 1-listit
-#Displaying list of current directory 
+#Displaying list of current directory
+2-bring_me_home
+#Changes working directory to user's home directoy 
