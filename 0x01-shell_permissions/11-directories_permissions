@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x /tmp/h/dir*
+chmod ugo+x /h/dir*
