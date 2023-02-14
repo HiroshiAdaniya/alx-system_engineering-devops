@@ -1,0 +1,2 @@
+#!/bin/path
+ls -l path | grep ^d | wc -1
