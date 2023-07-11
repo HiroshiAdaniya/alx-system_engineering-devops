@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -empty | cut -d/ -f2
+find . -mindepth 1 -empty -printf "%f\n"
