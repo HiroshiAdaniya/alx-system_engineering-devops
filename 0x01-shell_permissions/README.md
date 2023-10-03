@@ -1,4 +1,6 @@
-# Scripts:
+# 0x01-shell_permissions
+
+## Scripts:
 
 This direcotry will contian the scripts for the project 0x01-shell_permissions
 
@@ -74,4 +76,4 @@ This direcotry will contian the scripts for the project 0x01-shell_permissions
 	
 	Plays StarWars IV episode in the terminal
 
-//end of scripts
+//end
